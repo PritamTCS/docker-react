@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React, the best and easiest JS library/framework
+            Learn React, best and finest JS library/framework ever
           </a>
         </header>
       </div>
